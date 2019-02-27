@@ -1,5 +1,5 @@
 # sentiment-analysis
-This is a personal data-science project/practice python script to perform sentiment analysis. 
+This is a personal data-science project/practice python script(s) to perform sentiment analysis. 
 
 ## About
 Sentiment Analysis is a useful method for detecting expression in text. 
