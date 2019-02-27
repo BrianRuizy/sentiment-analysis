@@ -1,20 +1,20 @@
-#more simplistic than gathering text from an API
-#in this version one provides the text to test the sentiment analysis
+# more simplistic than gathering text from an API
+# in this version one provides the text to test the sentiment analysis
 
-#Importing TextBlob package
-#repl.it allows for seamless package installation!
+# Importing TextBlob package
 
 from textblob import TextBlob
 
-text1 = 'Python is lame'
+print("\nHere is the most basic of Sentiment Analysis.\n")
+text1 = 'Python is boring'
 text2 = 'Python is the most superior programming language!'
 
-#attempting to pass the texts to a dataframe to be able to print sentiments of multiple text blocks
+# attempting to pass the texts to a dataframe to be able to print sentiments of multiple text blocks
 obj = TextBlob(text1)
 sentiment = obj.sentiment.polarity
-print(text1, ": ", sentiment)
+print(text1, ", Sentiment: ", sentiment)
 
 obj = TextBlob(text2)
 sentiment = obj.sentiment.polarity
-print(text2, ": ", sentiment )
-#simple, inputted text demonstration
+print(text2, ", Sentiment: ", sentiment)
+# simple, inputted text demonstration
