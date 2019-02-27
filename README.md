@@ -1,5 +1,5 @@
 # sentiment-analysis
-This is a personal data-science project/practice python script(s) to perform sentiment analysis. 
+This is documentation of a personal portfolio project demonstrating practial use of data science, i.e. Sentiment Analysis, with Python, TextBlob, BeautifulSoup.
 
 ## About
 Sentiment Analysis is a useful method for detecting expression in text. 
