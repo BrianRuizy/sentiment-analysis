@@ -1,2 +1,5 @@
-textblob==0.15.2
+
+from bs4 import BeautifulSoup #for webScraping
+from textblob import TextBlob #for sentiment analysis
+from termcolor import colored #for colored text
 tweepy==3.7.0
