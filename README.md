@@ -1,5 +1,5 @@
 # sentiment-analysis
-This is documentation of a personal portfolio project demonstrating practial use of data science, i.e. Sentiment Analysis, with Python, TextBlob, BeautifulSoup.
+This is documentation of a personal portfolio project demonstrating practial use of data science, i.e. Sentiment Analysis, with Python, TextBlob for sentiment, and BeautifulSoup for scraping web elemnents.
 
 ## About
 Sentiment Analysis is a useful method for detecting expression in text. 
