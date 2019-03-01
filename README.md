@@ -1,4 +1,4 @@
-# sentiment-analysis & web-scraping
+# sentiment-analysis
 This is documentation of a personal portfolio project demonstrating practial use of data science, i.e. Sentiment Analysis, with Python, TextBlob for sentiment, and BeautifulSoup for scraping web elemnents.
 
 ## About
