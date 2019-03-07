@@ -10,7 +10,7 @@ The Algorithm can be further improved to gather user data based on their geo/dem
 
 
 ## Requirements
-* from textblob import TextBlob 
+* textBlob
 * tweepy==3.7.0
 
 
