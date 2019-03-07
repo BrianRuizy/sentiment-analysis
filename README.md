@@ -16,8 +16,11 @@ The Algorithm can be further improved to gather user data based on their geo/dem
 
 ## Versions
 
-### UserInput.py 
-will demonstrate the use of sentiment analysis performed on a simple user based input. 
-### Tweepy.py 
-will incorporate the use of Twitter's API to gather the text-based off an inputted search keyword.
+**UserInput.py**
+
+Will demonstrate the use of sentiment analysis performed on a simple user based input. 
+
+**Tweepy.py**
+
+Will incorporate the use of Twitter's API to gather the text-based off an inputted search keyword.
 
