@@ -9,7 +9,7 @@ useful method for effectively detecting expression in the text. Whether the said
 The Algorithm can be further improved to gather user data based on their geo/demographics.
 
 
-## Requirements
+## Dependencies
 * textBlob
 * tweepy==3.7.0
 
