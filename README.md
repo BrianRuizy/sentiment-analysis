@@ -20,3 +20,5 @@ The Algorithm can be further improved to gather user data based on their geo/dem
 
 **Tweepy.py** Will incorporate the use of Twitter's API to gather the text-based off an inputted search keyword.
 
+## Result
+...
