@@ -11,7 +11,6 @@ The Algorithm can be further improved to gather user data based on their geo/dem
 
 ## Dependencies
 * textBlob
-* Tkinter
 * tweepy
 
 
