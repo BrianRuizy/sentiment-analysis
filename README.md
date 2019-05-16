@@ -16,9 +16,15 @@ Tools include:
 [Tweepy](https://www.tweepy.org/)
 
 
+
 ## Versions
+<img align="right" src="https://github.com/BrianRuizy/sentiment-analysis/blob/master/images/SentimentAnalysis.gif" width="31%">
+</img>
 
-**UserInput.py** Will demonstrate the use of sentiment analysis performed on a simple user based input. 
+* ### UserInput 
+Will demonstrate the use of sentiment analysis performed on a simple user based input. 
 
-**Tweepy.py** Will incorporate the use of Twitter's API to gather the text-based off an inputted search keyword.
+
+* ### Tweepy
+Will incorporate the use of Twitter's API to gather the text-based off an inputted search keyword.
 
