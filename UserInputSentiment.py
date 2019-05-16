@@ -25,7 +25,10 @@ def sentiment_analysis():
 
 
 sentiment_analysis()
-print("\nThank you for using my machine")
+print("--------------------------------",
+   "\n| Thank's for using my machine |",
+    "\n--------------------------------\n")
+
 
 # The outputted polarity ranges from negative (-1)
 # to positive (1), more neutral comments tend to give out
