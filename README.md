@@ -12,7 +12,7 @@ The Algorithm can be further improved to gather user data based on their geo/dem
 
 ## Dependencies
 Tools include: 
-[TextBlob](https://textblob.readthedocs.io/en/dev/)
+[TextBlob](https://textblob.readthedocs.io/en/dev/),
 [Tweepy](https://www.tweepy.org/)
 
 
