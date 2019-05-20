@@ -18,11 +18,11 @@ Tools include:
 
 
 ## Versions
-<img align="right" src="https://github.com/BrianRuizy/sentiment-analysis/blob/master/images/SentimentAnalysis.gif" width="31%">
-</img>
-
 * ### UserInput 
 Will demonstrate the use of sentiment analysis performed on a simple user based input. The output is then a polarity ranging from -1.0 to 1.0, which can then be interpreted as either positive or negative feedback.
+<p align="center">
+<img src="https://github.com/BrianRuizy/sentiment-analysis/blob/master/images/SentimentAnalysis.gif" width="31%"> </img>
+</p>
 
 
 * ### Tweepy
