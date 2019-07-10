@@ -10,26 +10,15 @@ print("------------------------------",
       "\n|        'q' to quit         |",
       "\n------------------------------\n")
 
-
 def sentiment_analysis():
-    # Ask user for input
-    userInput = input("Enter text to analyze: \n")
+      
+    userInput = input("Enter text for AI: ");
+    while userInput != 'q':
 
-    if userInput != "q":
+      sentiment = TextBlob(userInput).sentiment.polarity
+      print ('Sentiment: ', sentiment)  # Concatenation
+      print('Positive\n' if sentiment > 0 else 'Negative\n' )  # Ternary operator
 
-        obj = TextBlob(userInput)  # set object of user input
-        sentiment = obj.sentiment.polarity  # pass object to text-blob library
-        print("sentiment: ", sentiment, "\n")  # prints polarity
-
-        sentiment_analysis()  # loops function again
-
-
-sentiment_analysis()
-print("--------------------------------",
-   "\n| Thank's for using my machine |",
-    "\n--------------------------------\n")
-
-
-# The outputted polarity ranges from negative (-1)
-# to positive (1), more neutral comments tend to give out
-# a polarity between -0.2 <-> 0.2
+      sentiment_analysis() # recursion
+    
+sentiment_analysis() # call function
