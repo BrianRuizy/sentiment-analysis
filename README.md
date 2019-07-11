@@ -1,4 +1,4 @@
-# Sentiment Analysis 😊<💻>😟
+# Sentiment Analysis 😊💻😟
 This is documentation of a personal portfolio project demonstrating the practial use of data science, i.e. Sentiment Analysis, with Python, TextBlob for sentiment, and Tweepy to collect data from *Twitter*. 
 
 ## About
